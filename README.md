@@ -22,7 +22,7 @@ I'm **Piyush Lingwal**, a second-year B.Tech student at **Tula's Institute** and
 Currently wearing multiple hats:
 - 🧠 **Founder** — [Chanakya AI](#chanakya-ai) · AI-powered answer sheet evaluation for Indian classrooms
 - 🛸 **Cloud/AI Lead** — [AeroFlex](#aeroflex-drone) · Modular drone with AWS-powered real-time telemetry
-- 🌿 **DevOps Intern** — [Saukhyam Pads](https://saukhyam.com) · Social enterprise under Mata Amritanandamayi Math
+- 🌿 **AI-Ops Intern** — [Saukhyam](https://saukhyam.com) · Social enterprise under Mata Amritanandamayi Math
 - 🩸 **Founder** — [CareSakhi](#caresak hi) · D2C sustainable period care platform
 ---
  
@@ -57,7 +57,7 @@ Stack: Raspberry Pi 3B · GStreamer → AWS Kinesis Video Streams
  
 ---
  
-### 🌿 Saukhyam Pads — Website & Infrastructure
+### 🌿 Saukhyam — Website & Infrastructure
 > *Building digital presence for a social enterprise*
  
 Full AWS Amplify deployment of a Next.js site for a sustainable menstrual health brand run under the Mata Amritanandamayi Math. Architected a headless Next.js + Sanity CMS + Shopify Storefront API migration strategy for scalability.
@@ -121,13 +121,14 @@ Founded and operate a D2C menstrual care platform. Handled full ops stack includ
 | 🏅 Achievement | 📍 Where |
 |---|---|
 | ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services |
-| 🛸 **Selected — Graph-E-Thon 3.0** | Graphic Era University |
+| 🛸 **Winner — Graph-E-Thon 3.0** | Graphic Era University |
 | 💡 **Runner-Up — Gyan Kumbh** | Tula's Institute |
 | 🤖 **Shortlisted — Annam AI** | IIT Ropar |
 | 🏦 **Fin-O-Hack 2026 Participant** | ASSETS DTU × Paytm AI |
 | 🇮🇳 **SIH 2026 — College Shortlisted** | Smart India Hackathon |
+| 🇮🇳 **SIH 2025 — College Shortlisted** | Smart India Hackathon |
 | 💚 **Carethon Grant Recipient** | Carethon |
-| 🏛️ **Innovation & Entrepreneurship Nominee** | Tula's Institute |
+
  
 ---
  
