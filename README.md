@@ -277,7 +277,7 @@ active_builds:
 
 interning_at:
   org: Saukhyam Pads (social enterprise, Mata Amritanandamayi Math)
-  role: DevOps Intern
+  role: AIOps Intern
   stack: [AWS Amplify, Next.js, Sanity CMS, GitHub Actions]
 
 learning:
