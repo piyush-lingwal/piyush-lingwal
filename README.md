@@ -39,7 +39,7 @@ class PiyushLingwal:
     name         = "Piyush Lingwal"
     college      = "Tula's Institute, Dehradun — B.Tech CSE (2nd Year)"
     roles        = ["Founder @ChanakyaAI", "Cloud/AI Lead @AeroFlex",
-                    "DevOps Intern @Saukhyam", "Founder @CareSakhi",
+                    "AIOps Intern @Saukhyam", "Founder @CareSakhi",
                     "Tech Lead — ACM Student Chapter"]
     certifications = ["AWS Certified Cloud Practitioner ☁️"]
     superpower   = "Ship first. Refine later. Break things with purpose."
