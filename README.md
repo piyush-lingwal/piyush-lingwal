@@ -68,7 +68,7 @@ class PiyushLingwal:
 The Indian education system evaluates millions of exam papers manually. Chanakya AI automates this — multilingual, rubric-aware, and built for scale.
 
 ```
-OCR Layer    → Sarvam Vision + Akshar OCR
+ICR Layer    → Sarvam Vision + Akshar OCR
 Grading LLM  → Sarvam-105B
 Annotation   → Spatial grounding + bounding boxes
 Backend      → FastAPI · Python
